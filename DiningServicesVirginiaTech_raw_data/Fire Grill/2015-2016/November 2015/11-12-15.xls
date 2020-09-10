@@ -1,0 +1,648 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>
+</title>
+<body>
+<p style="font-weight:bold" >Menu Item Detail</p>
+  <table>
+<tr class='normal'><td style='font-weight:bold'>Locations</td><td>VT Dining</td></tr>
+<tr class='normal'><td style='font-weight:bold'>Business Dates</td><td>11/12/2015</td></tr>
+<tr class='normal'><td style='font-weight:bold'>Revenue Centers</td><td>1872 Fire Grill</td></tr>
+  </table>
+<br>
+<table border="1">
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Scope</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Start Time</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+End Time</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+</tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1872 Fire Grill</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11/12/2015 3:30 AM</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11/13/2015 3:30 AM</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+</tr>
+</table>
+&nbsp;
+<table border="1">
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+Item #</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Item Name</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Level</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+# Sold</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Gross Sales</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Sales Pct</FONT></td>
+</tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4420</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+12 OZ FLAT IRON</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+14</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+230.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4414</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8 oz FLT IRON STK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+24</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+271.20</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9024</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9 X 9 TO GO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+332</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+66.40</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+3210</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+BACON</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+37</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+92.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4385</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+BAKED BEANS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+174</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+252.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4363</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+BBQ RUBBD CHIX</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+174</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+722.10</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4356</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+BEEF BRISKET</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+2694</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+BISCUIT</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+32</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+43.20</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4484</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHEF SPL DESSERT</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+106.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4407</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHEF SPL S.E. 2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+227</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,396.05</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4439</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHIX SWEET CHILI</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+149</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+618.35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4341</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHIX&amp;DUMPLGS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+251</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,167.15</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+8201</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+COFFEE M</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+20.70</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4417</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+DELMNICO STK 6 OZ</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+181.35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4304</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EGGS STEAMED</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+21</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+38.85</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9016</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+FOUNTAIN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+178</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+247.42</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4427</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GRILL SPECIAL 2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+146.90</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9019</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GRN TO GO FLEX</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9980</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ICE/WATER</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+264</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+26.40</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4294</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+LG BL PLTE BRKF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+17</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+139.40</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4340</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+MAMAS MEATLF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+66</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+412.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4449</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+MASHED POTATOS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+134</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+194.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4449</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+MASHED POTATOS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+354</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+513.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9031</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+MILK 1/2 PT</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+12</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4321</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+O BRIAN POTATO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+20</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+29.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4461</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ORANGE RICE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+64</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+92.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4461</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ORANGE RICE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+127</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+184.15</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4318</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+PANCAKE TP</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+46.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4354</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ROAST LAMB</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+154</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+993.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+3223</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SAUSAGE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+32.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4301</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SAUSAGE GRVY</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+12</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+12.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4380</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SCALOP POTATO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+204</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+295.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4300</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SCRMBLD EGGS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+51</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+99.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+9270</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SOFT ROLL</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+217</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+130.20</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4460</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+STMD BROC/BTR</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+148</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+214.60</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4373</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SUTHRN SUCATSH</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+122</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+201.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4298</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+THURS. BL PLTE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+169</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+971.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4419</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+TROUT</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+45.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4312</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+WAFFLE BATTR</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4391</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ZUCCHINI &amp; BASIL</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+202</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+333.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3%</FONT></td>
+   </tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Report Group Subtotal</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4,056</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10,613.62</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+100%</FONT></td>
+</tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+TOTAL =</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4,056</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10,613.62</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+100%</FONT></td>
+</tr>
+</table>
+&nbsp;
+</body>
+</html>

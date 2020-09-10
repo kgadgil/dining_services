@@ -1,0 +1,1124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>
+</title>
+<body>
+<p style="font-weight:bold" >Menu Item Detail</p>
+  <table>
+<tr class='normal'><td style='font-weight:bold'>Locations</td><td>VT Dining</td></tr>
+<tr class='normal'><td style='font-weight:bold'>Business Dates</td><td>10/26/2015</td></tr>
+<tr class='normal'><td style='font-weight:bold'>Revenue Centers</td><td>Qdoba Mex Grill</td></tr>
+  </table>
+<br>
+<table border="1">
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Scope</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Start Time</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+End Time</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+</tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Qdoba Mex Grill</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10/26/2015 3:30 AM</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10/27/2015 3:30 AM</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+</tr>
+</table>
+&nbsp;
+<table border="1">
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+Item #</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Item Name</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Level</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+# Sold</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Gross Sales</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Sales Pct</FONT></td>
+</tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4804</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+87.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4811</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T COMBO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4810</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T GRND SIRLN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+47.70</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4809</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4806</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+46.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4805</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3 T VEGETARIAN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7.95</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4702</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+185</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,470.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4712</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B GRND SIRLN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+79.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4710</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+74.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4711</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+37.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4703</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+95</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+878.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4701</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+B VEGETABLE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+87.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4871</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHIPS N GUACML</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+53</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+182.85</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4872</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHIPS N QUESO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+289</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,286.05</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4870</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+CHIPS N SALSA</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+16</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+39.20</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4915</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP 1 TACO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5.70</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4917</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP BURRITO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+21</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+156.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4922</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP CHPS QUESO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4927</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP GUMBO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+40.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4916</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP NACHOS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4918</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP NAKD BURRI</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+260.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4913</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP QUESADLLA</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+62.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4921</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP SALAD</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+14.90</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4914</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+EMP TACOS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4909</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+FOUNTN Q</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+277</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+385.03</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4844</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GUMBO CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+103.35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4848</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GUMBO PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4847</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GUMBO SH BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4845</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GUMBO STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4842</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+GUMBO VEGETARN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+39.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4908</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+ICE/WATER</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+348</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+34.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4827</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NACHO CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+27</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+214.65</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4831</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NACHO GRND SIRL</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+39.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4832</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NACHO PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4828</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NACHO STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+37.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4826</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NACHO VEGTARIAN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+47.70</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4715</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+569</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4,523.55</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+22%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4724</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB GRND SIRLN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+11</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+87.45</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4722</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+120.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4723</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+74.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4716</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+127</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,174.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4714</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NB VEGETABLE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+48</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+381.60</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4744</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+344</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2,734.80</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+13%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4752</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ GRND SIRLN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+119.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4753</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+12</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+111.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4751</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+46.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4745</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+92</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+851.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4743</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+NQ VEGETABLE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+119.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4729</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+147</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,168.65</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4737</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q GRND SIRLN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+63.60</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4738</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+6</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+55.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4736</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+27.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4730</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+60</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+555.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4728</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Q VEGETABLE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+55.65</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4835</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD CHEESE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+10</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+79.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4836</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD CHICKN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+133</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1,057.35</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4840</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD GR SIRL</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+14</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+111.30</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4841</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+46.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4839</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD SH BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+37.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4837</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+QUESAD STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+47</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+434.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4858</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SIDE GUACAMOLE</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+21</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+36.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4873</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SIDE OF CHIPS</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+100</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+155.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4864</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SIDE QUESO</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+15</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+50.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4863</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SIDE SALSA</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+9</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8.55</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4860</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+SIDE SOUR CREAM</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2.85</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4817</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+T SLD CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+8</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+63.60</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4821</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+T SLD GRND SIRL</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7.95</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4822</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+T SLD PORK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+27.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4818</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+T SLD STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+18.50</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4816</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+T SLD VEGETRN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+7.95</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4877</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+X CHICKEN</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+103</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+231.75</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4880</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+X GRND SIRLION</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+2</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+5.90</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4879</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+X SHRD BEEF</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+4.25</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+0%</FONT></td>
+   </tr>
+   <tr>
+<td><FONT FACE="Arial Unicode MS">
+4878</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+X STEAK</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+28</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+119.00</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+1%</FONT></td>
+   </tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+Report Group Subtotal</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3,464</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+20,632.53</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+100%</FONT></td>
+</tr>
+<tr>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+TOTAL =</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+&nbsp;</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+3,464</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+20,632.53</FONT></td>
+<td><FONT FACE="Arial Unicode MS">
+100%</FONT></td>
+</tr>
+</table>
+&nbsp;
+</body>
+</html>

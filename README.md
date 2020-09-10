@@ -1,0 +1,1 @@
+This repository contains the dining data from Virginia Tech's dining centers from 2014-2018. A number of steps have been taken to transform this data to form a single file. Please refer to file_info.txt for more details.
